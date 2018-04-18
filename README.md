@@ -3,7 +3,8 @@
 
 ### What we have done so far
 
-
+![image of car](https://github.com/BUConnectedWorld/Group12/car.jpg)
+![image of car](https://github.com/BUConnectedWorld/Group12/road.jpg)
 - We impelemented carControl.py file to let L298N motor driver control toy car. 
 
 - camera.py is the file to control pi camera
