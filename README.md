@@ -1,10 +1,8 @@
 # Group12
 ## Raspberry Pi controled Self-Driving Car
-***
 
 ### What we have done so far
 
-***
 
 - We impelemented carControl.py file to let L298N motor driver control toy car. 
 
