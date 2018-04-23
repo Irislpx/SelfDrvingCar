@@ -33,7 +33,7 @@
 
 ### Week3
 
-- This week, we first installed Keras and Tensorflow library with their dependencied. In order to be familiar with how Keras works, we worked on the official datasets [MNIST database of handwritten digits](https://keras.io/datasets/).The folder [/Practice_with_handWriting_Dataset](https://github.com/BUConnectedWorld/Group12/blob/master/Practice_with_handWriting_Datase)includes the model we bulit and the returned trained model.  
+- This week, we first installed Keras and Tensorflow library with their dependencied. In order to be familiar with how Keras works, we worked on the official datasets [MNIST database of handwritten digits](https://keras.io/datasets/).The folder [/Practice_with_handWriting_Dataset](https://github.com/BUConnectedWorld/Group12/tree/master/Practice_with_handWriting_Dataset)includes the model we bulit and the returned trained model.  
 
 
 
