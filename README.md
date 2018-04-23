@@ -1,6 +1,6 @@
 # Group12
 ## Raspberry Pi controled Self-Driving Car
-## -- A Trained Autonamous Car using Keras and TensorFlow Based on CNN Network
+## -- A Trained Autonomous Car using Keras and TensorFlow Based on CNN Network
 
 ### What we have done so far
 
@@ -33,7 +33,7 @@
 
 ### Week3
 
-- This week, we first installed Keras and Tensorflow library with their dependencied. In order to be familiar with how Keras works, we worked on the official datasets [MNIST database of handwritten digits](https://keras.io/datasets/).The folder [/Practice_with_handWriting_Dataset](https://github.com/BUConnectedWorld/Group12/tree/master/Practice_with_handWriting_Dataset)includes the model we bulit and the returned trained model.  
+- This week, we first installed Keras and Tensorflow library with their dependencies. In order to be familiar with how Keras works, we worked on the official datasets [MNIST database of handwritten digits](https://keras.io/datasets/).The folder [/Practice_with_handWriting_Dataset](https://github.com/BUConnectedWorld/Group12/tree/master/Practice_with_handWriting_Dataset)includes the model we bulit and the returned trained model.  
 
 
 
