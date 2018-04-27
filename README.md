@@ -4,7 +4,7 @@
 
 ### What we have done so far
 
-#### Week1
+### Week1
 
 ![image of car](https://github.com/BUConnectedWorld/Group12/blob/master/car.JPG)
 
@@ -21,7 +21,7 @@
   | 1  |  0  |  0  |  0  | Motor 2 Reverse |
   | 1  |  1  |  0  |  0  | Motor 2 Brake |
 
-#### Week2
+### Week2
 
 - We configured picamera and gathered images from road. [camera.py](https://github.com/BUConnectedWorld/Group12/blob/master/camera.py) is the file to control pi camera, the camera is capable of capturing a sequence of images extremely rapidly by utilizing its video-capture capabilities with a JPEG encoder. Here is the [reference](https://picamera.readthedocs.io/en/release-1.13/recipes2.html#rapid-capture-and-streaming)
 
