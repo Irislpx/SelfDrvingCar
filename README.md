@@ -23,8 +23,6 @@
 
 #### Week2
 
-![image of car](https://github.com/BUConnectedWorld/Group12/blob/master/road.JPG)
-
 - We configured picamera and gathered images from road. [camera.py](https://github.com/BUConnectedWorld/Group12/blob/master/camera.py) is the file to control pi camera, the camera is capable of capturing a sequence of images extremely rapidly by utilizing its video-capture capabilities with a JPEG encoder. Here is the [reference](https://picamera.readthedocs.io/en/release-1.13/recipes2.html#rapid-capture-and-streaming)
 
 - In [collect.py](https://github.com/BUConnectedWorld/Group12/blob/master/collect.py)file, we imported pygame to control toy car when keyboard is pressed. We took it as a thread, since we need to capture images as well as drive car in the same time. Therefore, in [capture.py](https://github.com/BUConnectedWorld/Group12/blob/master/capture.py), we implemented muti-threading program to let two models work together. At each time step, camera would save files to directory with direction we made as label. 
@@ -41,8 +39,11 @@
 
 ### Week5
 
-- We tested our CNN model this week, 
+- We tested our CNN model this week, please click the photo to see video demo.
+
+[![](https://github.com/BUConnectedWorld/Group12/blob/master/road.JPG)](https://youtu.be/X4-wM3XmoGA)
 
 
+### Week6 & 7
 
-
+- In week6 and 7 we worked on our website. We used socket communication as raspberry Pi on client side, PC on server side, user can control car to start by calling POST request. 
