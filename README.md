@@ -33,7 +33,15 @@
 
 ### Week3
 
-- This week, we first installed Keras and Tensorflow library with their dependencies. In order to be familiar with how Keras works, we worked on the official datasets [MNIST database of handwritten digits](https://keras.io/datasets/).The folder [/Practice_with_handWriting_Dataset](https://github.com/BUConnectedWorld/Group12/tree/master/Practice_with_handWriting_Dataset)includes the model we bulit and the returned trained model.  
+- This week, we first installed Keras and Tensorflow library with their dependencies. In order to be familiar with how Keras works, we worked on the official datasets [MNIST database of handwritten digits](https://keras.io/datasets/).The folder [/Practice_with_handWriting_Dataset](https://github.com/BUConnectedWorld/Group12/tree/master/Practice_with_handWriting_Dataset) includes the model we bulit and the returned trained model.  
+
+### Week4
+
+- In this week, we first manully removed some datasets with bad quality, here "bad quality" represents ambiguity of path or no path shown in captured photos. Then we use Keras to build CNN network. There are two types of models in Keras, most people would like to use the Sequential model where we added some 2D convolution layers along with dropout layers to prevent overfitting,implemented flatten layer and dense layer as the final layer to output the trained model. Every time we input an image, trained model would help us to predict an output array with different rate on serveral directions, the highest ranked direction is the most possible way car should run compared with the actual running condition. You can check our trained model in folder (Trained_Model)[https://github.com/BUConnectedWorld/Group12/tree/master/Trained_Model] , all the trained models are saved as .h5 format. Besides, the CNN network we built can also be found in this folder.
+
+### Week5
+
+- We tested our CNN model this week, 
 
 
 
