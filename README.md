@@ -2,8 +2,6 @@
 ## Raspberry Pi controled Self-Driving Car
 ## -- A Trained Autonomous Car using Keras and TensorFlow Based on CNN Network
 
-### What we have done so far
-
 ### Week1
 
 ![image of car](https://github.com/BUConnectedWorld/Group12/blob/master/car.JPG)
