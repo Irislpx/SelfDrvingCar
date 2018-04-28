@@ -44,7 +44,7 @@
 
 ### Week6 & 7
 
-- In week6 and 7 we worked on our website. We built a frontend websites using React.js and applied Socket.io to communicate with Raspberry Pi. Raspberry Pi here is worked as server side, by emitting and subscribe event, browser could talk with Pi and control it to run Keras model.[web](https://github.com/BUConnectedWorld/Group12/tree/master/web) folder contains components of React, [api] (https://github.com/BUConnectedWorld/Group12/tree/master/api) folder contains server side node.js code.
+- In week6 and 7 we worked on our website. We built a frontend websites using React.js and applied Socket.io to communicate with Raspberry Pi. Raspberry Pi here is worked as server side, by emitting and subscribe event, browser could talk with Pi and control it to run Keras model. [web](https://github.com/BUConnectedWorld/Group12/tree/master/web) folder contains components of React, [api](https://github.com/BUConnectedWorld/Group12/tree/master/api) folder contains server side node.js code.
 
 ### Week 8
  - We tested our deep learning model and implemented authentication login and logout using firebase.
