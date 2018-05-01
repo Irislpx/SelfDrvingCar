@@ -39,7 +39,7 @@
 
 - We tested our CNN model this week, please click the photo to see video demo.
 
-[![](https://github.com/BUConnectedWorld/Group12/blob/master/road.JPG)](https://youtu.be/X4-wM3XmoGA)
+[![](https://github.com/BUConnectedWorld/Group12/blob/master/road.JPG)](https://drive.google.com/open?id=135uMNcaJAWrbK6EnMqdgUg-S_VXYJm_s)
 
 
 ### Week6 & 7
